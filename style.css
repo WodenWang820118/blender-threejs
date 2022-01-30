@@ -1,0 +1,10 @@
+body {
+    background-color: antiquewhite;
+}
+
+/* the threejs canvas */
+canvas {
+    display: block;
+    border: 1px solid #000000;
+    margin: 0 auto;
+}
